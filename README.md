@@ -53,7 +53,7 @@ Ez a repository a Mentoráláshoz kapcsolódó AWS Python kódokat tartalmazza.
 
    ```bash
    git clone https://github.com/the1bit/mentor-aws-python.git
-    cd mentor-aws-python
+   cd mentor-aws-python
    ```
 
 2. Hozz létre és aktiváld a virtuális környezetet.
