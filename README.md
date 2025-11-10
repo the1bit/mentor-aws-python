@@ -1,4 +1,4 @@
-# Mentor AWS Pyrthon
+# Mentor AWS Python
 
 Ez a repository a Mentoráláshoz kapcsolódó AWS Python kódokat tartalmazza.
 
