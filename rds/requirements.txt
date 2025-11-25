@@ -1,0 +1,3 @@
+# AWS S3 Python requirements
+boto3
+pymysql
